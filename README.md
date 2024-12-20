@@ -1,0 +1,1 @@
+This si the smart conract that was used to make the Ndeipi Coin. The smart contract is highly upgradable and most of the things can be updated in this. 
